@@ -6,3 +6,7 @@ file ที่เกี่ยวข้องหลัก ๆ
 
 ## การ Redirect login จะอยู่ที่ 
 ## src/app/(protected)/layout.tsx
+
+## ใช้ Node v20
+## yarn 
+## yarn dev
