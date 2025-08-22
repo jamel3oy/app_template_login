@@ -1,0 +1,10 @@
+@import "calendar.css";
+@import "maps.css";
+@import "loader.css";
+@import "base.css";
+@import "react-timeline.css";
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@100;200;300;400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
